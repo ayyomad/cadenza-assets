@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Trumpet",
+    "tagline": "The Bright, Brash Voice of Jazz",
+    "description": "Bold, piercing, and unmistakably alive — the trumpet has been a central voice in jazz since the genre’s birth. Its tone can be sharp and triumphant or soft and lyrical, carrying solos that cut through with raw emotion. From the warm swing of Louis Armstrong to the cool, muted lines of Miles Davis, the trumpet shaped the evolution of jazz one breath at a time.",
+    "image": "https://raw.githubusercontent.com/ayyomad/cadenza-assets/main/images/trumpet-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Saxophone",
+    "tagline": "The Soulful Voice of Jazz",
+    "description": "Smooth, expressive, and endlessly versatile — the saxophone is the heart of jazz melody and improvisation. Its rich, warm tones can whisper a delicate ballad or roar with fiery intensity, capturing every shade of human emotion. Legends like Charlie Parker and John Coltrane redefined the possibilities of the saxophone, pushing jazz into new realms of complexity and spirituality.",
+    "image": "https://raw.githubusercontent.com/ayyomad/cadenza-assets/main/images/saxophone.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Piano",
+    "tagline": "The Harmonic Heartbeat of Jazz",
+    "description": "The piano anchors jazz with its rich harmonic layers and rhythmic complexity. Whether comping softly behind a soloist or leading with dazzling improvisations, it provides both foundation and flair. Masters like Thelonious Monk and Bill Evans turned the piano into a storytelling instrument, blending melody, harmony, and rhythm into one seamless voice. In jazz, the piano is where structure meets spontaneity.",
+    "image": "https://raw.githubusercontent.com/ayyomad/cadenza-assets/main/images/piano.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Double Bass",
+    "tagline": "The Pulsing Foundation of Jazz",
+    "description": "The double bass is the heartbeat of jazz, providing the deep, steady pulse that holds the music together. Its rich, woody tones create the harmonic foundation and rhythmic drive essential to every ensemble. Virtuosos like Charles Mingus and Ron Carter transformed the bass from mere accompaniment into a powerful solo instrument, weaving intricate lines that balance groove and melody.",
+    "image": "https://raw.githubusercontent.com/ayyomad/cadenza-assets/main/images/doublebass-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Drum Kit",
+    "tagline": "The Rhythmic Engine of Jazz",
+    "description": "The drum kit drives jazz forward with intricate rhythms and dynamic energy. From the subtle brush strokes of a ballad to explosive solos, it shapes the pulse and feel of every performance. Drummers like Max Roach and Art Blakey revolutionized jazz percussion, turning the kit into a conversation partner — responsive, expressive, and essential to the music’s spirit.",
+    "image": "https://raw.githubusercontent.com/ayyomad/cadenza-assets/main/images/drumkit.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Trombone",
+    "tagline": "The Warm, Expressive Voice of Brass",
+    "description": "With its smooth slides and rich, mellow tone, the trombone adds depth and warmth to jazz ensembles. It can be playful, soulful, or powerful—expressing a wide emotional range with every note. Greats like J.J. Johnson and Curtis Fuller elevated the trombone to a lead solo instrument, proving its versatility and expressive potential in jazz’s evolving story.",
+    "image": "https://raw.githubusercontent.com/ayyomad/cadenza-assets/main/images/trombone.jpg"
+  }
+]
